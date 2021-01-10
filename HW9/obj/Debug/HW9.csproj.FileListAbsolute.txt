@@ -1,0 +1,6 @@
+C:\Users\muart\OneDrive\С#\HW9\bin\Debug\HW9.exe
+C:\Users\muart\OneDrive\С#\HW9\bin\Debug\HW9.pdb
+C:\Users\muart\OneDrive\С#\HW9\obj\Debug\HW9.csprojAssemblyReference.cache
+C:\Users\muart\OneDrive\С#\HW9\obj\Debug\HW9.csproj.CoreCompileInputs.cache
+C:\Users\muart\OneDrive\С#\HW9\obj\Debug\HW9.exe
+C:\Users\muart\OneDrive\С#\HW9\obj\Debug\HW9.pdb

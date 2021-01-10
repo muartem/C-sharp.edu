@@ -1,0 +1,5 @@
+C:\Users\muart\Desktop\С#\HW2\HW2\bin\Debug\HW2.1.exe
+C:\Users\muart\Desktop\С#\HW2\HW2\obj\Debug\HW2.1.csprojAssemblyReference.cache
+C:\Users\muart\Desktop\С#\HW2\HW2\obj\Debug\HW2.1.csproj.CoreCompileInputs.cache
+C:\Users\muart\Desktop\С#\HW2\HW2\obj\Debug\HW2.1.exe
+C:\Users\muart\Desktop\С#\HW2\HW2\obj\Debug\HW2.1.pdb

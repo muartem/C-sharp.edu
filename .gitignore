@@ -1,0 +1,15 @@
+.idea
+.vs
+.bin
+.obj
+.Properties
+/.idea
+/*/.idea
+/.vs
+/*/.vs
+/.bin
+/.obj
+/.Properties
+/*/.bin
+/*/.obj
+/*/.Properties

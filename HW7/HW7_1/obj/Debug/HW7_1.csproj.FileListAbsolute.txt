@@ -1,0 +1,6 @@
+C:\Users\muart\OneDrive\С#\HW7\HW7_1\bin\Debug\HW7_1.exe
+C:\Users\muart\OneDrive\С#\HW7\HW7_1\bin\Debug\HW7_1.pdb
+C:\Users\muart\OneDrive\С#\HW7\HW7_1\obj\Debug\HW7_1.csprojAssemblyReference.cache
+C:\Users\muart\OneDrive\С#\HW7\HW7_1\obj\Debug\HW7_1.csproj.CoreCompileInputs.cache
+C:\Users\muart\OneDrive\С#\HW7\HW7_1\obj\Debug\HW7_1.exe
+C:\Users\muart\OneDrive\С#\HW7\HW7_1\obj\Debug\HW7_1.pdb

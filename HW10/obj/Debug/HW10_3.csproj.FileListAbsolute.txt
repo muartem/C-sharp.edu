@@ -1,0 +1,6 @@
+C:\Users\muart\OneDrive\С#\HW10_3\bin\Debug\HW10_3.exe
+C:\Users\muart\OneDrive\С#\HW10_3\bin\Debug\HW10_3.pdb
+C:\Users\muart\OneDrive\С#\HW10_3\obj\Debug\HW10_3.csprojAssemblyReference.cache
+C:\Users\muart\OneDrive\С#\HW10_3\obj\Debug\HW10_3.csproj.CoreCompileInputs.cache
+C:\Users\muart\OneDrive\С#\HW10_3\obj\Debug\HW10_3.exe
+C:\Users\muart\OneDrive\С#\HW10_3\obj\Debug\HW10_3.pdb

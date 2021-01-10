@@ -1,0 +1,16 @@
+C:\Users\muart\Desktop\С#\HW4_3\bin\Debug\net5.0\HW4_3.exe
+C:\Users\muart\Desktop\С#\HW4_3\bin\Debug\net5.0\HW4_3.deps.json
+C:\Users\muart\Desktop\С#\HW4_3\bin\Debug\net5.0\HW4_3.runtimeconfig.json
+C:\Users\muart\Desktop\С#\HW4_3\bin\Debug\net5.0\HW4_3.runtimeconfig.dev.json
+C:\Users\muart\Desktop\С#\HW4_3\bin\Debug\net5.0\HW4_3.dll
+C:\Users\muart\Desktop\С#\HW4_3\bin\Debug\net5.0\ref\HW4_3.dll
+C:\Users\muart\Desktop\С#\HW4_3\bin\Debug\net5.0\HW4_3.pdb
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\HW4_3.csprojAssemblyReference.cache
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\HW4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\HW4_3.AssemblyInfoInputs.cache
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\HW4_3.AssemblyInfo.cs
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\HW4_3.csproj.CoreCompileInputs.cache
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\HW4_3.dll
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\ref\HW4_3.dll
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\HW4_3.pdb
+C:\Users\muart\Desktop\С#\HW4_3\obj\Debug\net5.0\HW4_3.genruntimeconfig.cache

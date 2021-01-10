@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4_1", "HW4_1\HW4_1.csproj", "{C486BDB4-037C-43E8-B5FF-AA7A22B27970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4_2", "HW4_2\HW4_2.csproj", "{46F35311-51A3-48D5-B524-599DDCE5CEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4_3", "HW4_3\HW4_3.csproj", "{29DCB5BE-FF7B-4FB5-AFF5-94B3ECB06BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C486BDB4-037C-43E8-B5FF-AA7A22B27970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C486BDB4-037C-43E8-B5FF-AA7A22B27970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C486BDB4-037C-43E8-B5FF-AA7A22B27970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C486BDB4-037C-43E8-B5FF-AA7A22B27970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F35311-51A3-48D5-B524-599DDCE5CEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F35311-51A3-48D5-B524-599DDCE5CEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F35311-51A3-48D5-B524-599DDCE5CEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F35311-51A3-48D5-B524-599DDCE5CEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DCB5BE-FF7B-4FB5-AFF5-94B3ECB06BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DCB5BE-FF7B-4FB5-AFF5-94B3ECB06BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DCB5BE-FF7B-4FB5-AFF5-94B3ECB06BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DCB5BE-FF7B-4FB5-AFF5-94B3ECB06BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
